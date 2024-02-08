@@ -5,9 +5,9 @@ publish_date: 2024-02-03
 
 Explanation of change, and its possible scenarios.
 
-You reading this implies that there is "CHANGE", being through you implies that "EXISTS" at least in the form of thoughts, and being now implies that it is "PRESENT". The past and the future are chronological compositions within a mind (what we call time), but the present is the current state of everything that exists.
+You reading this implies that there is "CHANGE", being through you implies that "EXISTS" (in the form of thoughts/sensations), and being now implies that it is "PRESENT". The past and the future are chronological compositions within a mind (what we call time), but the present is the current state of everything that exists.
 
-The [green circle](./imgs/change_green_circle.jpg) symbolizes ALL the present change. This change may or may not contain "awareness", that is, a part of it (complex organism) is aware of it (creates existance, simulation level 0). The [path](./imgs/change_path.jpg) within the green circle depicts a finite lifetime of a "complex organism", which could be infinite too (a complete circle within the green one).
+The [green circle](./imgs/change_green_circle.jpg) symbolizes ALL the present change. This change may or may not contain "awareness", that is, a part of it (complex organism) is aware of it (creates existance, simulation level 0). The [path](./imgs/change_path.jpg) within the green circle depicts a finite lifetime of a "complex organism", which determines the radius (hence the perimeter) of its associated green circle.
 
 This "complex organism" can learn the logical rules that govern local change, and use them to determine a part of it, i.e. technology.
 
